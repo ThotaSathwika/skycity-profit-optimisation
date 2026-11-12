@@ -1,0 +1,102 @@
+{
+ "baseline_total": 7866324.716650261,
+ "baseline_avg": 4638.163158402276,
+ "actual_total": 7866306.130000001,
+ "loss_making_share": 0.24056603773584906,
+ "psi": {
+  "OPEX rate": -4.107,
+  "COGS rate": -2.795,
+  "Commission rate": -1.817,
+  "Order volume": 1.0,
+  "Uber Eats share": -0.86,
+  "Delivery cost / order": -0.171
+ },
+ "comm_slope_per_pp": -476079.2003274746,
+ "breakeven_median": 0.3470471162558535,
+ "sd_parity_median": 0.08206275111721481,
+ "ue_loss_now": 0.31721698113207547,
+ "breakeven_by_segment": {
+  "Cafe": 0.36,
+  "Full-service": 0.124,
+  "Ghost Kitchen": 0.45,
+  "QSR": 0.358
+ },
+ "safe_comm_by_segment": {
+  "Cafe": 0.31,
+  "Full-service": 0.074,
+  "Ghost Kitchen": 0.4,
+  "QSR": 0.308
+ },
+ "sd_threshold_radius_km": 39.05661016949153,
+ "scenarios": {
+  "Baseline": 7866325.0,
+  "UE +10pp (from Self-Delivery)": 6473202.0,
+  "UE -10pp (to Self-Delivery)": 9259447.0,
+  "Commission +3pp": 6438087.0,
+  "Commission -3pp": 9294562.0,
+  "Radius +3km": 7503541.0,
+  "In-store +5pp (from delivery)": 8817054.0
+ },
+ "growth_12m": 0.46316262026208976,
+ "growth_12m_erode": 0.19951324298747042,
+ "opt_best": {
+  "InStore": 0.25,
+  "UE": 0.35,
+  "DD": 0.2,
+  "SD": 0.45,
+  "Profit": 11694819.326
+ },
+ "opt_uplift": 0.48669419924813756,
+ "opt_by_segment": {
+  "Cafe": {
+   "uplift": 0.3021701740938065,
+   "base_profit": 3770711.753498609,
+   "best_profit": 4910108.380510846,
+   "InStore": 0.25,
+   "UE": 0.35,
+   "DD": 0.2,
+   "SD": 0.45
+  },
+  "Full-service": {
+   "uplift": 0.8834326064354086,
+   "base_profit": -1301787.4568635183,
+   "best_profit": -151745.9708216584,
+   "InStore": 0.35,
+   "UE": 0.35,
+   "DD": 0.2,
+   "SD": 0.45
+  },
+  "Ghost Kitchen": {
+   "uplift": 0.26234915780466067,
+   "base_profit": 1783086.9703943608,
+   "best_profit": 2250878.3353697853,
+   "InStore": 0.15,
+   "UE": 0.35,
+   "DD": 0.2,
+   "SD": 0.45
+  },
+  "QSR": {
+   "uplift": 0.3110764069239763,
+   "base_profit": 3614313.4496208085,
+   "best_profit": 4738641.091025852,
+   "InStore": 0.2,
+   "UE": 0.35,
+   "DD": 0.2,
+   "SD": 0.45
+  }
+ },
+ "fs_base": -1301787.4568635183,
+ "fs_no_agg": 1422528.776440207,
+ "fs_n": 452,
+ "inv_threshold_orders_F2000": 236.68499043570296,
+ "median_sd_orders": 212.0,
+ "efficiency_per_pp": {
+  "InStore": 128.8,
+  "UberEats": 3.8,
+  "DoorDash": 4.0,
+  "SelfDelivery": 106.2
+ },
+ "mix_efficiency_score": 0.6726332829614373,
+ "xgb_baseline": 7857325.5,
+ "xgb_ue10": 6708375.0
+}

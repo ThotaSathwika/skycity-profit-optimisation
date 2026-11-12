@@ -1,0 +1,9 @@
+FeatureSet,Model,RMSE,MAE,R2,CV_R2
+Raw features,Linear Regression,1866.954,1299.322,0.8916,0.8809
+Raw features,Random Forest,1195.9219,886.0415,0.9555,0.9614
+Raw features,Gradient Boosting,758.7069,575.2439,0.9821,0.982
+Raw features,XGBoost,693.5534,519.9484,0.985,0.9832
+Engineered features,Linear Regression,2.1787,1.686,1.0,1.0
+Engineered features,Random Forest,691.7379,479.0388,0.9851,0.9862
+Engineered features,Gradient Boosting,428.6263,305.4046,0.9943,0.9936
+Engineered features,XGBoost,422.9061,300.8769,0.9944,0.993
