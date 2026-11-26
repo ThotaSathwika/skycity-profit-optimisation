@@ -2,7 +2,7 @@
 
 1. **GitHub repository** - create a public repo (e.g. `skycity-profit-optimisation`), upload every file in this folder, copy the repo URL.
 2. **Research paper link** - upload `reports/Research_Paper.pdf` to Google Drive → Share → "Anyone with the link" → copy link. (Add `Executive_Summary.pdf` the same way.)
-3. **Deployed app link** - share.streamlit.io → New app → pick the repo, branch `main`, main file `app.py` → Deploy → copy the `https://<name>.streamlit.app` URL.
+3. **Deployed app link** - share.streamlit.io → New app → pick the repo, branch `main`, main file `app.py` → Deploy → copy the `https://<name>.streamlit.app` URL. Link : https://skycity-profit-optimiser.streamlit.app/
 4. **Feedback video link** - record 1-2 min (screen + voice), upload to YouTube as Unlisted or Drive with link sharing, copy the link.
 
 ## Feedback video script (about 90 seconds)
