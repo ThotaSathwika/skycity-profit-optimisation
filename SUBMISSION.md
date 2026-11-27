@@ -1,9 +1,9 @@
 # Submission checklist (all four fields need https:// links)
 
-1. **GitHub repository** - create a public repo (e.g. `skycity-profit-optimisation`), upload every file in this folder, copy the repo URL.
-2. **Research paper link** - upload `reports/Research_Paper.pdf` to Google Drive → Share → "Anyone with the link" → copy link. (Add `Executive_Summary.pdf` the same way.)
+1. **GitHub repository** - create a public repo (e.g. `skycity-profit-optimisation`), upload every file in this folder, copy the repo URL. URL : https://github.com/ThotaSathwika/skycity-profit-optimisation
+2. **Research paper link** - upload `reports/Research_Paper.pdf` to Google Drive → Share → "Anyone with the link" → copy link. Link: https://drive.google.com/file/d/1mq-kGeHPGHz7UV86LoNxMPib2hxdM0Uc/view?usp=sharing (Add `Executive_Summary.pdf` the same way. Link : https://drive.google.com/file/d/1Wkat5ALn0fv522BwiOCPy2Dw9t_jNgdW/view?usp=sharing)
 3. **Deployed app link** - share.streamlit.io → New app → pick the repo, branch `main`, main file `app.py` → Deploy → copy the `https://<name>.streamlit.app` URL. Link : https://skycity-profit-optimiser.streamlit.app/
-4. **Feedback video link** - record 1-2 min (screen + voice), upload to YouTube as Unlisted or Drive with link sharing, copy the link.
+4. **Feedback video link** - record 1-2 min (screen + voice), upload to YouTube as Unlisted or Drive with link sharing, copy the link. Link : (https://drive.google.com/file/d/1pnUm3eZvm_TudMq2UQb_kJWeAsZBTg4o/view?usp=sharing)
 
 ## Feedback video script (about 90 seconds)
 - Intro: "I built a profit prediction and optimisation tool for SkyCity Auckland restaurants across four channels."
